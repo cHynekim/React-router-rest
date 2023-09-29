@@ -1,0 +1,69 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "id": 4,
+      "day": 4
+    },
+    {
+      "id": 5,
+      "day": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "laptop",
+      "kor": "노트북",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "day": 2,
+      "eng": "paper",
+      "kor": "종이",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 3,
+      "eng": "evaporate",
+      "kor": "증발하다",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 4,
+      "eng": "operate",
+      "kor": "작동되다",
+      "isDone": false
+    },
+    {
+      "day": "5",
+      "eng": "drowsy",
+      "kor": "졸린",
+      "isDone": false,
+      "id": 5
+    }
+  ]
+}

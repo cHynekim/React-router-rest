@@ -1,0 +1,32 @@
+{
+    "words" : [
+        {
+            "id" : 1,
+            "day" : 1,
+            "eng" : "laptop",
+            "kor" : "노트북",
+            "isDone" : false
+        },
+        {
+            "id" : 2,
+            "day" : 2,
+            "eng" : "paper",
+            "kor" : "종이",
+            "isDone" : false
+        },
+        {
+            "id" : 3,
+            "day" : 3,
+            "eng" : "evaporate",
+            "kor" : "증발하다",
+            "isDone" : false
+        },
+        {
+            "id" : 4,
+            "day" : 4,
+            "eng" : "operate",
+            "kor" : "작동되다",
+            "isDone" : false
+        }
+    ]
+}
